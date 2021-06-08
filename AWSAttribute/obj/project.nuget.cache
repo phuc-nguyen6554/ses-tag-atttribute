@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2QM1NMWt8m9BlE4FFkLqH/NGN2J88DFxHdBlwiGL/Sw1QSp9IT73EXq+ygQ7r7BJTtvFMBZ1KGm+GPzLh6f4aA==",
+  "success": true,
+  "projectFilePath": "D:\\Workspaces\\.Net\\Replace-Attribute-Playground\\AWSAttribute\\AWSAttribute.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\htmlagilitypack\\1.11.34\\htmlagilitypack.1.11.34.nupkg.sha512"
+  ],
+  "logs": []
+}
